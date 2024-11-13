@@ -15,6 +15,7 @@
 
 
 
+
 """
 WSGI config for my_first_django_project_ever_01 project.
 
